@@ -9,11 +9,11 @@ var _app = function () {
     this.shouldIgnoreVideo = false;
     this.effects = ["bounce", "flash", "pulse", "rubberBand", "shake", "swing", "tada", "wobble", "jello"];
     this.brandDescription = [
-        "StandartCoderᴰᵉᵛ#1168", 
-        "Developer",
-        "|JavaScript|Java|Python|",
-        "noob in csgo", 
-        "$ StandartCoder", 
+        "When#3167", 
+        "Developer & lazy student",
+        "|NodeJS|Lua|Python|",
+        "noob in krunker", 
+        "$ Covarun", 
     ];
 
 
