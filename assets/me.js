@@ -16,7 +16,7 @@ function loaded(){
 
 var x = 0;
 
-var titleText = [ "$ Covarun", "$ Covaru", "$ Covar", "$ Cova", "$ Cov", "$ Co", "$ C", "$ C", "$ Co", "$ Cov", "$ Cova", "$ Covar", "$ Covaru", "$ Covarun" ];
+var titleText = [ "$ Covarun", "$ Covaru", "$ Covar", "$ Cova", "$ Cov", "$ Co", "$ C", "$ ", "$ C", "$ Co", "$ Cov", "$ Cova", "$ Covar", "$ Covaru", "$ Covarun" ];
 
 function loop(){
 	document.getElementsByTagName("title")[0].innerHTML = titleText[x++%titleText.length];
