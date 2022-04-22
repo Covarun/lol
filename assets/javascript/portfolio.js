@@ -149,7 +149,7 @@
     (function () {
         $.getJSON('https://api.ipgeolocation.io/ipgeo?apiKey=2bdc619693544329841a3196dca3f6c0', function (data) { 
 
-            writeLine(["Authenticating...", "Attempting to grant access to <span style='font-size: 14px; color: #ff0008;'>[standartcoder.github.io]</span>..."], 30, function () {
+            writeLine(["Authenticating...", "Attempting to grant access to <span style='font-size: 14px; color: #00ffff;'>[covarun.github.io/lol]</span>..."], 30, function () {
 
                 if (app.skippedIntro)
                 	return;
@@ -169,7 +169,7 @@
 
                     clearCursor();
 
-                    writeLine(["StandartCoder"], 30, 500, function () {
+                    writeLine(["Covarun"], 30, 500, function () {
                        
 
                         timeouts.push(setTimeout(function () {
