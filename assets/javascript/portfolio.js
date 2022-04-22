@@ -16,17 +16,17 @@
 
 		    {
                 name: 'Discord',
-                link: 'https://discord.com/users/831041114843643904'
+                link: 'https://discord.com/users/786352301539196969'
             },
             
             {
-                name: 'GitHub',
-                link: 'https://github.com/StandartCoder'
+                name: 'Tiktok',
+                link: 'https://tiktok.com/@Covarun'
             },
             
 			{
-                name: 'FREE VBUCKS',
-                link: 'https://freevbucks.com/'
+                name: 'Twitch',
+                link: 'https://twitch.tv/13aam'
             },
 
         ];
